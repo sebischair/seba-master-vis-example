@@ -1,9 +1,7 @@
 # seba-master-vis-example application
-Movies example application based on AngularJS. Backend can be found [here](https://github.com/sebischair/sebamaster-movie-backend)
+Adding an external library example application based on AngularJS.
 
 ## Prerequisites
-
-Both for the front end and the back end check:
 
 * nodejs [official website](https://nodejs.org/en/) - nodejs includes [npm](https://www.npmjs.com/) (node package manager)
 
@@ -18,7 +16,7 @@ You need git to clone the [seba-master-vis-example](https://github.com/sebischai
 
 We also use a number of node.js tools to initialize and test [seba-master-vis-example](https://github.com/sebischair/seba-master-vis-example/) . You must have node.js and its package manager (npm) installed.  You can get them from [http://nodejs.org/](http://nodejs.org/).
 
-### Clone Movie Project
+### Clone App Project
 
 Clone the [seba-master-vis-example](https://github.com/sebischair/seba-master-vis-example/)  repository using [git](http://git-scm.com/):
 
