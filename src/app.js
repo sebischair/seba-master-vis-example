@@ -13,6 +13,8 @@ import ngMdIcons from 'angular-material-icons';
 import AppContent from './components/app-content/app-content';
 
 
+
+
 let app = angular.module('app', [
     uiRouter,
     angularMaterial,
